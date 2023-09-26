@@ -34,7 +34,8 @@ body {
 
 #colors-list {
   display: flex;
-  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
 }
 
 #colors-list div {
